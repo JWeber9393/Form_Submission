@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Create User</title>
+</head>
+<body>
+    <div class="container">
+        <form asp-action="Create" asp-controller="Home" method="post">
+            @using Form_Submission.Models
+            @model User
+            
+            <span asp-validation-for="_fname"></span>
+            <label asp-for="_fname"></label>
+            <input asp-for="_fname">
+            
+            <span asp-validation-for="_lname"></span>
+            <label asp-for="_lname"></label>
+            <input asp-for="_lname">
+            
+            <span asp-validation-for="_age"></span>
+            <label asp-for="_age"></label>
+            <input asp-for="_age">
+            
+            <span asp-validation-for="_email"></span>
+            <label asp-for="_email"></label>
+            <input asp-for="_email">
+            
+            <span asp-validation-for="_password"></span>
+            <label asp-for="_password"></label>
+            <input asp-for="_password">
+
+            <input value="Add User" type="submit">    
+        </form>
+    </div>
+</body>
+</html>
