@@ -24,22 +24,16 @@ namespace Form_Submission.Controllers
 
         [HttpPost]
         [Route("/create")]
-        public IActionResult Create(string fname, string lname, int age, string email, string password)
+        public IActionResult Create(User newUser)
         {
-            Console.WriteLine("******************************************************************");
-            Console.WriteLine("In the Create route");
-            Console.WriteLine("******************************************************************");
             if (ModelState.IsValid)
             {
-                User newUser = new User
-                {
-                    _fname = fname,
-                    _lname = lname,
-                    _age = age,
-                    _email = email,
-                    _password = password,
-                };
-                return RedirectToAction("Success");
+    
+                Console.WriteLine("******************************************************************");
+                Console.WriteLine("In the Create route");
+                Console.WriteLine($"{newUser._fname}");
+                Console.WriteLine("******************************************************************");
+                return RedirectToAction("Success", newUser);
             }
             else
             {
@@ -51,12 +45,12 @@ namespace Form_Submission.Controllers
         
         [HttpGet]
         [Route("/success")]
-        public IActionResult Success()
+        public IActionResult Success(User newUser)
         {
             Console.WriteLine("******************************************************************");
             Console.WriteLine("In the Success route");
             Console.WriteLine("******************************************************************");
-            return View();
+            return View(newUser);
         }
     }
 }

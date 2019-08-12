@@ -28,3 +28,33 @@ C:\Users\weber\OneDrive\Desktop\Coding Dojo Desktop\c#_stack\ASP.NET_Core\Form_S
 c:\Users\weber\OneDrive\Desktop\Coding Dojo Desktop\c#_stack\ASP.NET_Core\Form_Submission\bin\Debug\netcoreapp2.2\Form_Submission.Views.pdb
 c:\Users\weber\OneDrive\Desktop\Coding Dojo Desktop\c#_stack\ASP.NET_Core\Form_Submission\obj\Debug\netcoreapp2.2\Form_Submission.Views.pdb
 C:\Users\weber\OneDrive\Desktop\Coding Dojo Desktop\c#_stack\ASP.NET_Core\Form_Submission\obj\Debug\netcoreapp2.2\Form_Submission.csproj.CopyComplete
+C:\Users\RedRo\Desktop\Coding Dojo\c#_stack\ASP.NET_Core\Form_Submission\obj\Debug\netcoreapp2.2\Form_Submission.csprojAssemblyReference.cache
+C:\Users\RedRo\Desktop\Coding Dojo\c#_stack\ASP.NET_Core\Form_Submission\obj\Debug\netcoreapp2.2\Form_Submission.csproj.CoreCompileInputs.cache
+C:\Users\RedRo\Desktop\Coding Dojo\c#_stack\ASP.NET_Core\Form_Submission\obj\Debug\netcoreapp2.2\Form_Submission.RazorAssemblyInfo.cache
+C:\Users\RedRo\Desktop\Coding Dojo\c#_stack\ASP.NET_Core\Form_Submission\obj\Debug\netcoreapp2.2\Form_Submission.RazorAssemblyInfo.cs
+C:\Users\RedRo\Desktop\Coding Dojo\c#_stack\ASP.NET_Core\Form_Submission\obj\Debug\netcoreapp2.2\Form_Submission.AssemblyInfoInputs.cache
+C:\Users\RedRo\Desktop\Coding Dojo\c#_stack\ASP.NET_Core\Form_Submission\obj\Debug\netcoreapp2.2\Form_Submission.AssemblyInfo.cs
+C:\Users\RedRo\Desktop\Coding Dojo\c#_stack\ASP.NET_Core\Form_Submission\obj\Debug\netcoreapp2.2\Form_Submission.TagHelpers.input.cache
+C:\Users\RedRo\Desktop\Coding Dojo\c#_stack\ASP.NET_Core\Form_Submission\obj\Debug\netcoreapp2.2\Form_Submission.TagHelpers.output.cache
+C:\Users\RedRo\Desktop\Coding Dojo\c#_stack\ASP.NET_Core\Form_Submission\obj\Debug\netcoreapp2.2\Form_Submission.RazorCoreGenerate.cache
+C:\Users\RedRo\Desktop\Coding Dojo\c#_stack\ASP.NET_Core\Form_Submission\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\RedRo\Desktop\Coding Dojo\c#_stack\ASP.NET_Core\Form_Submission\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\RedRo\Desktop\Coding Dojo\c#_stack\ASP.NET_Core\Form_Submission\obj\Debug\netcoreapp2.2\Razor\Views\Home\Success.g.cshtml.cs
+C:\Users\RedRo\Desktop\Coding Dojo\c#_stack\ASP.NET_Core\Form_Submission\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\RedRo\Desktop\Coding Dojo\c#_stack\ASP.NET_Core\Form_Submission\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\RedRo\Desktop\Coding Dojo\c#_stack\ASP.NET_Core\Form_Submission\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\RedRo\Desktop\Coding Dojo\c#_stack\ASP.NET_Core\Form_Submission\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\RedRo\Desktop\Coding Dojo\c#_stack\ASP.NET_Core\Form_Submission\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\RedRo\Desktop\Coding Dojo\c#_stack\ASP.NET_Core\Form_Submission\obj\Debug\netcoreapp2.2\Form_Submission.RazorTargetAssemblyInfo.cache
+C:\Users\RedRo\Desktop\Coding Dojo\c#_stack\ASP.NET_Core\Form_Submission\obj\Debug\netcoreapp2.2\Form_Submission.RazorTargetAssemblyInfo.cs
+C:\Users\RedRo\Desktop\Coding Dojo\c#_stack\ASP.NET_Core\Form_Submission\obj\Debug\netcoreapp2.2\Form_Submission.dll
+C:\Users\RedRo\Desktop\Coding Dojo\c#_stack\ASP.NET_Core\Form_Submission\obj\Debug\netcoreapp2.2\Form_Submission.pdb
+C:\Users\RedRo\Desktop\Coding Dojo\c#_stack\ASP.NET_Core\Form_Submission\bin\Debug\netcoreapp2.2\Form_Submission.deps.json
+C:\Users\RedRo\Desktop\Coding Dojo\c#_stack\ASP.NET_Core\Form_Submission\bin\Debug\netcoreapp2.2\Form_Submission.runtimeconfig.json
+C:\Users\RedRo\Desktop\Coding Dojo\c#_stack\ASP.NET_Core\Form_Submission\bin\Debug\netcoreapp2.2\Form_Submission.runtimeconfig.dev.json
+C:\Users\RedRo\Desktop\Coding Dojo\c#_stack\ASP.NET_Core\Form_Submission\bin\Debug\netcoreapp2.2\Form_Submission.dll
+C:\Users\RedRo\Desktop\Coding Dojo\c#_stack\ASP.NET_Core\Form_Submission\bin\Debug\netcoreapp2.2\Form_Submission.pdb
+C:\Users\RedRo\Desktop\Coding Dojo\c#_stack\ASP.NET_Core\Form_Submission\bin\Debug\netcoreapp2.2\Form_Submission.Views.dll
+C:\Users\RedRo\Desktop\Coding Dojo\c#_stack\ASP.NET_Core\Form_Submission\bin\Debug\netcoreapp2.2\Form_Submission.Views.pdb
+C:\Users\RedRo\Desktop\Coding Dojo\c#_stack\ASP.NET_Core\Form_Submission\obj\Debug\netcoreapp2.2\Form_Submission.Views.pdb
+C:\Users\RedRo\Desktop\Coding Dojo\c#_stack\ASP.NET_Core\Form_Submission\obj\Debug\netcoreapp2.2\Form_Submission.csproj.CopyComplete

@@ -12073,23 +12073,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\weber\\.nuget\\packages\\": {},
+    "C:\\Users\\RedRo\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\weber\\OneDrive\\Desktop\\Coding Dojo Desktop\\c#_stack\\ASP.NET_Core\\Form_Submission\\Form_Submission.csproj",
+      "projectUniqueName": "C:\\Users\\RedRo\\Desktop\\Coding Dojo\\c#_stack\\ASP.NET_Core\\Form_Submission\\Form_Submission.csproj",
       "projectName": "Form_Submission",
-      "projectPath": "C:\\Users\\weber\\OneDrive\\Desktop\\Coding Dojo Desktop\\c#_stack\\ASP.NET_Core\\Form_Submission\\Form_Submission.csproj",
-      "packagesPath": "C:\\Users\\weber\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\weber\\OneDrive\\Desktop\\Coding Dojo Desktop\\c#_stack\\ASP.NET_Core\\Form_Submission\\obj\\",
+      "projectPath": "C:\\Users\\RedRo\\Desktop\\Coding Dojo\\c#_stack\\ASP.NET_Core\\Form_Submission\\Form_Submission.csproj",
+      "packagesPath": "C:\\Users\\RedRo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\RedRo\\Desktop\\Coding Dojo\\c#_stack\\ASP.NET_Core\\Form_Submission\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\weber\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\RedRo\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
